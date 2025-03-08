@@ -7,7 +7,7 @@ int main(void) {
     
     srand(time(NULL));
     
-    int matriz[3][3], matriz_descon[3][3];
+    int matriz[3][3], matriz_descon[6][6];
 	
 	/*= {
 		{0, 1 ,0},
